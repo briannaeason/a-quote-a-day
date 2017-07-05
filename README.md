@@ -1,2 +1,4 @@
 # a-quote-a-day
-a random quote generator project for free Code Camp
+A random quote generator project for free Code Camp.
+
+Initially written using CodePen. Have a look here: https://codepen.io/briannaeason/full/Rgxypr/
