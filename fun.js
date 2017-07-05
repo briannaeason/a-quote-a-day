@@ -1,4 +1,5 @@
-//gives a new quote each time you refresh
+<script>
+	//gives a new quote each time you refresh
 $.ajaxSetup({
     cache:false
 });
@@ -20,3 +21,5 @@ $(".quote-button").click(function() {
 });
 
 var twitterBaseURL = "https://twitter.com/intent/tweet?text=";
+
+</script>
